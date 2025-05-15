@@ -1,0 +1,4 @@
+[submodule "sports2d_pkg_fork"]
+	path = sports2d_pkg_fork
+	url = https://github.com/arghhhhh/sports2d.git
+	branch = unity-integration

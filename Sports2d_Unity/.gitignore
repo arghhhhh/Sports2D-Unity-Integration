@@ -1,0 +1,122 @@
+# Unity 3D generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]serSettings/
+# /[Pp]ackages/ # Typically Packages/manifest.json and Packages/packages-lock.json are versioned.
+                # Only ignore if you have a specific reason and manage packages differently.
+
+# Output C# projects
+/[Aa]ssets/Plugins/Editor/JetBrains*
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files for ignored files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D Generated Backup files
+/[Ll]ibrary/Backups/
+
+# OS generated files
+# Windows
+Thumbs.db
+Desktop.ini
+ntuser.pol
+ntuser.dat.LOG?
+ntuser.ini
+
+# Mac
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+ehthumbs_vista.db
+
+# Linux
+*.swp
+*~
+
+# Crashlytics generated files (if you use it)
+/[Ff]abric/
+
+# Asset Bundle / Addressables build output
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.manifest
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Visual Studio cache files
+.vsconfig
+
+# Rider specific files (JetBrains IDE)
+*.idea/
+*.iml
+
+# User Emanation Data for IL2CPP (specific to your machine)
+/[Ll]ibrary/Bee/
+/[Ll]ibrary/Il2cppBuildCache/
+/[Ll]ibrary/ScriptMapper/
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.xarchive/
+*.ipa
+
+# Gradle cache files (Android builds)
+.gradle/
+
+# Cache directory used by the Unity Package Manager for precompiled assemblies
+/[Ll]ibrary/PackageCache/
+
+# Plastic SCM Generated files (if using Unity's Plastic SCM)
+plastic_workspace/
+plastic.workspace
+plastic.cfg
+plastic.selector
+plastic.wktree
+*.wkmeta
+*.conflict.*
+*.private.*
+*.keep.*
+*.backup.*
+*.merge.*
+*.write.*
+*.delete.*
+*.deleted.*
+*.resolved.*
+*.moved.*
+*.added.*
+*.changed.*
+*.checkout.*
+*.locked.*
+*.xlink.*
+*.history.*
+*.ptoken
+*.restore.*
+*.pending.*
+*.server.*
+
+.env
