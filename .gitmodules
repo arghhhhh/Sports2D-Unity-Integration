@@ -2,3 +2,7 @@
 	path = sports2d_pkg_fork
 	url = https://github.com/arghhhhh/sports2d.git
 	branch = unity-integration
+[submodule "video_depth_anything_live_fork"]
+	path = video_depth_anything_live_fork
+	url = https://github.com/arghhhhh/Video-Depth-Anything-Live.git
+	branch = unity-integration
